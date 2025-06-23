@@ -1,0 +1,21 @@
+{
+  "name": "tugas-sesi-9",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test --timeout 30000 --reporter mochawesome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "mocha": "^11.7.0",
+    "mochawesome": "^7.1.3"
+  },
+  "dependencies": {
+    "chai": "^5.2.0",
+    "chromedriver": "^137.0.4",
+    "selenium-webdriver": "^4.33.0"
+  }
+}
